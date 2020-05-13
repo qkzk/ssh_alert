@@ -42,6 +42,6 @@ Then ssh to your server (or sudo) and you should get a pushbullet notification
 
 * It uses the wonderfull package [pushbullet.py](https://github.com/rbrcsk/pushbullet.py)
 
-* Inspiration (and part of code) comes from [ssh_alert](https://github.com/groovemonkey/sshalert)
+* Inspiration (and part of code) comes from [groovemonkey: ssh_alert](https://github.com/groovemonkey/sshalert)
 
 * Check his videos : [tutorial linux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
