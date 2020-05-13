@@ -3,8 +3,7 @@
 
 # Principle
 
-send pushbullet notifications to your phone when someone logs in
-your server
+Send pushbullet notifications to your phone when someone logs in your server.
 
 # Installation
 
@@ -35,7 +34,9 @@ your server
 
 
 
-Then ssh to your server (or sudo) and you should get a pushbullet notification
+Then ssh to your server (or sudo) and you should get a pushbullet notification.
+
+That's all.
 
 
 # Credits
