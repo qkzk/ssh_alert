@@ -1,0 +1,11 @@
+[Unit]
+Description=sshalert service - alerts when someone logs in or sudos
+
+[Install]
+WantedBy=multi-user.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/quentin/ssh_alert/
+ExecStart=/usr/bin/python3 /home/quentin/ssh_alert/ssh_alert.py
+Restart=always
